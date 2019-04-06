@@ -1,4 +1,4 @@
-package br.nom.belo.marcio;
+package br.nom.belo.marcio.cap1;
 import java.util.Scanner;
 public class SomaScanner {
     public static void main(String[] args) 

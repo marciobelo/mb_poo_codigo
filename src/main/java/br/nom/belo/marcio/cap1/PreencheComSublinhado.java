@@ -1,4 +1,4 @@
-package br.nom.belo.marcio;
+package br.nom.belo.marcio.cap1;
 
 public class PreencheComSublinhado {
 	public static void main(String[] args) {
